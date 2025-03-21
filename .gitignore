@@ -1,0 +1,6 @@
+mysql/data/*
+mysql/log/*
+redis/data/*
+redis/log/*
+.DS_Store
+.env
